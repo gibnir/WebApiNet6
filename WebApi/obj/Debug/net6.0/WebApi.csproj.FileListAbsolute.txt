@@ -24,6 +24,12 @@ C:\data\Learn\LearnCSharp\Asp.Net Core\SoftwaveTask\WebApi\obj\Debug\net6.0\WebA
 C:\data\Learn\LearnCSharp\Asp.Net Core\SoftwaveTask\WebApi\obj\Debug\net6.0\ref\WebApi.dll
 C:\data\Learn\LearnCSharp\Asp.Net Core\SoftwaveTask\WebApi\obj\Debug\net6.0\WebApi.pdb
 C:\data\Learn\LearnCSharp\Asp.Net Core\SoftwaveTask\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\bin\Debug\net6.0\appsettings.Development.json
 C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\bin\Debug\net6.0\appsettings.json
 C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\bin\Debug\net6.0\WebApi.exe
@@ -35,12 +41,6 @@ C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\bin\Debug\net6.0\Micros
 C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
-C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
-C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
-C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
-C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
-C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\staticwebassets.build.json
 C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\staticwebassets.development.json
 C:\data\Learn\LearnCSharp\Asp.Net Core\WebApiNet6\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
