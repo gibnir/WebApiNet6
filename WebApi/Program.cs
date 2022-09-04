@@ -1,5 +1,5 @@
 
-// http://www.omdbapi.com/?i=tt3896198&apikey=ce974a95
+// http://www.omdbapi.com/?i=tt3896198&apikey=yourapikey
 
 using Newtonsoft.Json.Serialization;
 using Microsoft.Extensions;

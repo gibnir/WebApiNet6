@@ -7,7 +7,7 @@ using System.Linq;
 namespace WebApi.Controllers
 {
 
-    // http://www.omdbapi.com/?apikey=yourapikey&s=star+trek
+    // http://www.omdbapi.com/?apikey=ce974a95&s=star+trek
 
     [ApiController]
     [Route("Movie")]
@@ -36,8 +36,8 @@ namespace WebApi.Controllers
         public async Task<string> GetAllMovies(string SearchText)
         {
 
-            // var URL = $"http://www.omdbapi.com/?apikey=yourapikey&s={SearchText}";
-            var URL = $"?apikey=yourapikey&s={SearchText}";
+            // var URL = $"http://www.omdbapi.com/?apikey=ce974a95&s={SearchText}";
+            var URL = $"?apikey=ce974a95&s={SearchText}";
 
             // var httpClient = new HttpClient();
 
@@ -55,7 +55,7 @@ namespace WebApi.Controllers
         public async Task<string> GetMovie(string id)
         {
 
-            var URL = $"?apikey=yourapikey&i={id}";
+            var URL = $"?apikey=ce974a95&i={id}";
 
             // var httpClient = new HttpClient();
 
@@ -81,8 +81,8 @@ namespace WebApi.Controllers
 
             Root root = new Root();
 
-            // var URL = $"http://www.omdbapi.com/?apikey=yourapikey&s={SearchText}";
-            var URL = $"?apikey=yourapikey&s={SearchText}";
+            // var URL = $"http://www.omdbapi.com/?apikey=ce974a95&s={SearchText}";
+            var URL = $"?apikey=ce974a95&s={SearchText}";
 
             // var httpClient = new HttpClient();
 
@@ -114,7 +114,7 @@ namespace WebApi.Controllers
 
             MovieDetails movieDetails = new MovieDetails();
 
-            var URL = $"?apikey=yourapikey&i={id}";
+            var URL = $"?apikey=ce974a95&i={id}";
             var httpClient = _httpClientFactory.CreateClient("Movie");
             var response = httpClient.GetAsync(URL).Result;
 
